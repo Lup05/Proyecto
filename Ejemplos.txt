@@ -1,0 +1,10 @@
+-> Comparación trabajo hombres y mujeres
+   - Comparar sectores en los que trabaja más la mujer y los hombres
+   -Comparar el trabajo no remunerado entre hombres y mujeres.
+-> Comparación carreras más seleccionadas con los años
+   - Hacer una gráfica lineal, donde muestre las carreras más seleccionadas
+   - Comparar entre las mujeres que estudian una maestría con los años
+   - Comparar las mujeres que estudian una carrera con los años
+
+-> Comparación de la muerte en mujeres
+   - Comparar la tasa de defunciones por homicidio y la tasa de defunciones en total.
